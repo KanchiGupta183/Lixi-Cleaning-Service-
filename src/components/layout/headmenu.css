@@ -1,0 +1,25 @@
+.nav-design{
+  position: fixed;
+  width: 100%;
+  margin: 0px;
+  background-color: #4a686a!important;
+
+  border: none!important;
+  text-decoration: none;
+  z-index: 999;
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 20px;
+
+}
+
+
+.nav-toggle-design{
+  border: none!important;
+ 
+}
+
+.nav-toggle-design active{
+  border: transparent !important;
+}
